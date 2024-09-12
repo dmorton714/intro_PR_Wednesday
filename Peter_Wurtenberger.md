@@ -1,0 +1,1 @@
+Hello! I am in Tuesday's class but wanted to practice some more. I love traveling, photography, and learning new things. Excited to be in this program!
