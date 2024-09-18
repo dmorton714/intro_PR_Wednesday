@@ -1,0 +1,1 @@
+Hello! My name is Tamika. I am an avid Cardinal fan, excited for this upcoming Pat Kelsey season! Go Cards!!
