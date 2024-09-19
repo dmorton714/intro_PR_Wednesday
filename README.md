@@ -1,4 +1,4 @@
-Hello World!!# intro_PR_Wednesday
+# intro_PR_Wednesday
 # Pull Request Practice Repository
 
 Welcome to the Pull Request Practice repository! This repo is designed for you to practice the process of creating pull requests in a collaborative environment.
