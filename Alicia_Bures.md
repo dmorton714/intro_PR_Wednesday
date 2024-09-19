@@ -1,4 +1,4 @@
-My name is ALicia. 
+My name is Alicia. 
 I love learning new things and developing new skills. 
 I like making things and feeling creatve.
 I do a lot of fiber arts stuff.  

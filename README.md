@@ -8,7 +8,7 @@ To contribute, you will need to:
 
 - Fork this repository to your own GitHub account.
 - Clone the forked repository to your local machine.
-- Create a new file in the directory with the following format:
+- Create a new file in the directory with the following format: 
 - File name: FirstName_LastName.md
 - Content: A short introduction of yourself (1-2 sentences).
 - Commit your changes and push them to your fork.

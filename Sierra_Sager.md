@@ -1,0 +1,1 @@
+My name is Sierra. I'm new to Cincinnati and new to coding.
