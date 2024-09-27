@@ -1,1 +1,3 @@
 I am someone who enjoys challenges and spending time with friends. I have been a game master for tabletop games for over 20 years, it's my favorite hobby!
+Adding some additional text because I apparently deleted the previous repo, whoops.
+I have dabbled in programming and have most of my background in Excel VBA. It's actually so much fun solving problems with programming, it's almost like playing a puzzle video game. 
