@@ -1,0 +1,1 @@
+I am trying to convince myself that I'm not too old to start a new career. I'm still no t sure which of the 3 career pathways to choose.
