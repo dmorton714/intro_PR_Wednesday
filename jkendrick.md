@@ -1,1 +1,0 @@
-Jacklyn Kendrick

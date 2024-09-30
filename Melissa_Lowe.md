@@ -1,1 +1,0 @@
-My name is Melissa Lowe.  I love learning new things and can't wait to see what we learn next.

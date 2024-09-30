@@ -1,1 +1,0 @@
-My name is Dan Collins. I like to kayak.

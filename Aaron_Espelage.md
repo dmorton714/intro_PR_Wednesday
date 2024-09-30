@@ -1,1 +1,0 @@
-My name is Aaron Espelage, I have a dog named Pork Chop. He's 2 years old.

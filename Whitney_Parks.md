@@ -1,1 +1,0 @@
-My name is Whitney Parks. I working on learning pull request.

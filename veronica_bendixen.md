@@ -1,1 +1,0 @@
- Hello this is Veronica Bendixen.  Some people just call me V. 

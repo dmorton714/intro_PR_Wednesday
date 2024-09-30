@@ -1,1 +1,0 @@
-My name is Abbi Birchum. I am in the Tuesday class but using this Wednesday one to practice by following along with Dan Collins. 

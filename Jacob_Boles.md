@@ -1,1 +1,0 @@
-hi im jacob. i enjoy anime and tinkering with tech to make it do what i want so i figured id make a career out of it.
