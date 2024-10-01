@@ -1,0 +1,1 @@
+Hello there - my name is Jade, I enjoy learning and applying new knowledge to any endeavors. One of my all time favorite shows is "How it's Made".
