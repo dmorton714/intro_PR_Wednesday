@@ -1,0 +1,1 @@
+I am a very tired brand new gitbash user who has discovered that the pointy brackets are like quotes and that the bash cd command is blessedly not very case-sensitive for what follows cd.
